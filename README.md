@@ -1,4 +1,7 @@
 #### 📖 Reading.. [모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445) 
+
+### 동료들에게 든든한 국밥☕ 같은 개발자, 문다현입니다 👋
+
 # My Skills
 
 ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
