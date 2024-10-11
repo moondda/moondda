@@ -1,4 +1,5 @@
 #### 📖 Reading.. 모던 자바스크립트 Deep Dive
+#### Learning Operating System 🔥🔥🔥
 
 ## 동료들에게 든든한 ♨️국밥♨️ 같은 개발자, 문다현입니다
 
