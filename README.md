@@ -15,7 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](http://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-%23FF0000?style=for-the-badge&logo=react-query&logoColor=white)
 
  #### 🙃 Tasting 
 
