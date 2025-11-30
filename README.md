@@ -1,8 +1,13 @@
 #### 📖 Reading... [일의 감각](https://product.kyobobook.co.kr/detail/S000214758045?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1)
 
-### 동료들에게 든든한 ♨️국밥♨️ 같은 개발자, 문다현입니다
+#### 동료들에게 든든한 ♨️국밥♨️ 같은 개발자, 문다현입니다
 
-### My Skills
+#### 💫 Activites
+- Open Source Contribution Academy (2025.09 ~ 2025.10) <br/>
+- 33rd SOPT, Web YB (2023.09 ~ 2024.01) <br/>
+- Do-iT! (2022.03 ~ 2023.07) <br/>
+
+#### 💎 My Skills
 
 ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](http://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
@@ -12,6 +17,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-%23FF0000?style=for-the-badge&logo=react-query&logoColor=white)
 
- ### 🙃 Tasting 
+ #### 🙃 Tasting 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
